@@ -1,0 +1,15 @@
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa2932.8719\WindowsFormsAppDZAsyncBookTitle\WindowsFormsAppDZAsyncBookTitle\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa2932.8719\WindowsFormsAppDZAsyncBookTitle\WindowsFormsAppDZAsyncBookTitle\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa2932.8719\WindowsFormsAppDZAsyncBookTitle\WindowsFormsAppDZAsyncBookTitle\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa2932.8719\WindowsFormsAppDZAsyncBookTitle\WindowsFormsAppDZAsyncBookTitle\obj\Debug\WindowsFormsAppDZAsyncBookTitle.Properties.Resources.resources
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa2932.8719\WindowsFormsAppDZAsyncBookTitle\WindowsFormsAppDZAsyncBookTitle\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa2932.8719\WindowsFormsAppDZAsyncBookTitle\WindowsFormsAppDZAsyncBookTitle\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa2932.8719\WindowsFormsAppDZAsyncBookTitle\WindowsFormsAppDZAsyncBookTitle\obj\Debug\WindowsFormsAppDZAsyncBookTitle.exe
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa2932.8719\WindowsFormsAppDZAsyncBookTitle\WindowsFormsAppDZAsyncBookTitle\obj\Debug\WindowsFormsAppDZAsyncBookTitle.pdb
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.331\WindowsFormsApp\WindowsFormsAppDZAsyncBookTitle\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.331\WindowsFormsApp\WindowsFormsAppDZAsyncBookTitle\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.331\WindowsFormsApp\WindowsFormsAppDZAsyncBookTitle\obj\Debug\WindowsFormsAppDZAsyncBookTitle.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.331\WindowsFormsApp\WindowsFormsAppDZAsyncBookTitle\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.331\WindowsFormsApp\WindowsFormsAppDZAsyncBookTitle\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.331\WindowsFormsApp\WindowsFormsAppDZAsyncBookTitle\obj\Debug\WindowsFormsAppDZAsyncBookTitle.exe
+C:\Users\User\AppData\Local\Temp\Rar$DRa0.331\WindowsFormsApp\WindowsFormsAppDZAsyncBookTitle\obj\Debug\WindowsFormsAppDZAsyncBookTitle.pdb
